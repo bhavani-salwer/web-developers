@@ -1,0 +1,39 @@
+body{
+    background: rgb(237, 193, 200);
+}
+.fa {
+    padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  }
+  .fa:hover {
+      opacity: 0.7;
+  }
+  .fa-facebook {
+    background: rgb(255, 255, 255);
+    color: #3B5998;
+  }
+  .fa-twitter {
+    background:rgb(9, 165, 244);
+    color: rgb(245, 250, 251);
+  }
+  .fa-instagram {
+    background:rgb(199, 79, 42);
+    color: white;
+  }
+  .fa-snapchat{
+    background: #fbfbf6;
+    color: rgb(248, 228, 4);
+  }
+  .fa-whatsapp{
+    background: #32c848;
+    color: white;
+  }
+  .fa-telegram{
+    background: #fbfbf6;
+    color: rgb(117, 170, 238);
+  }
+  
